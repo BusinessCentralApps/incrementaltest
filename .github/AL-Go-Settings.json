@@ -1,5 +1,6 @@
 {
   "type": "PTE",
   "templateUrl": "https://github.com/freddydk/AL-Go@partial",
-  "templateSha": "631624cc31fb3352213e32c734af33982b260bcb"
+  "templateSha": "631624cc31fb3352213e32c734af33982b260bcb",
+  "runs-on": "ubuntu-latest"
 }
